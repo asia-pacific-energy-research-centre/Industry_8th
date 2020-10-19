@@ -5,10 +5,21 @@ channels:
   - defaults
 
 dependencies:
-  - jupyterlab=1.1
-  - matplotlib=3.1
-  - pandas=0.25
-  - pyarrow=0.14
   - python=3.7
-  - scikit-learn=0.21
-  - xlrd=1.2
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - pyarrow
+  - scikit-learn
+  - xlrd
+  - fbprophet
+  - plotly
+  - statsmodels
+  - seaborn
+  - bokeh
+  - pyviz::panel
+  - nodejs
+  - hvplot
+  - jupyter-panel-proxy
+  - openpyxl
+  - XlsxWriter
