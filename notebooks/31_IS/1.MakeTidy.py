@@ -11,7 +11,9 @@ import datetime as dt
 print("Script started. -- Current date/time:", dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 # create directories for modified and results data
-paths = {'path1':'modified','path2':'results'}
+paths = {'path1': 'modified',
+         'path2': 'results'}
+
 for key, value in paths.items(): 
         try:
             os.makedirs(value)
