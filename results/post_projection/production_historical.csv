@@ -1,274 +1,274 @@
-economy,item,unit,item_code_new,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
-01_AUS,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,7625.0,5249.0,7296.0,6404.0,4893.0,4688.0,4607.0,4925.0,5259.0,5327.894
-01_AUS,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,1965.0,1993.0,1964.0,1930.0,1910.0,1885.0,1805.0,1839.0,1839.0,1815.0
-01_AUS,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,1974.0,1943.0,1928.0,1945.0,1864.0,1778.0,1704.0,1646.0,1630.0,1450.0
-01_AUS,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,9400.0,9200.0,8300.0,8600.0,8600.0,8400.0,9000.0,9000.0,9080.0,9304.987108694144
-01_AUS,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,6583.400000000001,6695.700000000001,8591.7,10046.2,8871.4,7015.2,7035.5,5412.1,7494.569090999999,7385.603306
-01_AUS,8th_machinery_production_projection,GVA millions USD,13_6_machinery,3859.7,3846.6,4920.6,5990.4,5782.1,5191.1,5197.4,3264.4,5384.625454999999,5441.552893
-01_AUS,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,30063.4,32673.8,62295.6,68892.4,61462.6,70477.5,47942.1,36063.9,65264.05636,67726.26413
-01_AUS,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,18213.4,17362.9,20934.4,25156.5,25822.0,25205.1,23270.5,18863.3,25723.44545,26516.33653
-01_AUS,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,3281000.0,3278000.0,3203000.0,3155000.0,3191000.0,3059000.0,3077000.0,3176000.0,3224000.0,3350156.892845706
-01_AUS,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,3501.2,3086.0,3377.8,3711.8,3601.2,3516.6,3443.7,3184.1,3613.618182,3622.802975
-01_AUS,8th_construction_production_projection,GVA millions USD,13_11_construction,73443.0,72662.7,90622.1,115216.5,123985.6,120735.5,116606.5,96505.6,132394.2727,138752.8919
-01_AUS,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,3111.6,2981.5,3238.5,3308.4,2803.9,2428.0,2384.1,1807.5,2577.023636,2481.470413
-01_AUS,8th_nonspecified_production,index,13_13_nonspecified_industry,142.91274245292587,142.8774646058724,143.1731964351654,144.20425914066016,147.46010902899172,148.98878902058578,150.55189141774036,151.6924666924287,153.7736373440033,155.35323706073174
-02_BD,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-02_BD,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,0.0,0.0,453.14,625.691,758.624,191.396,615.956,489.09551,643.7906800000001,652.9224626950355
-02_BD,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-02_BD,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-02_BD,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,71.8,63.900000000000006,72.0,98.7,121.5,130.8,99.9,91.60000000000001,124.5,130.69454545
-02_BD,8th_machinery_production_projection,GVA millions USD,13_6_machinery,78.9,76.7,80.2,118.4,152.9,174.8,115.5,111.7,158.4745455,168.3816529
-02_BD,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,763.1,595.9,641.4,937.3,1028.6,988.8,938.4,672.1,986.9054545,1012.532893
-02_BD,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,74.4,63.4,82.6,95.1,113.2,111.0,102.3,97.1,118.4054545,124.1165289
-02_BD,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-02_BD,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,3.6,2.7,3.1,4.1,4.2,4.0,3.8,2.9,3.967272727,3.969917355
-02_BD,8th_construction_production_projection,GVA millions USD,13_11_construction,93.3,66.6,75.0,98.1,101.2,95.9,89.2,64.5,90.52909091,89.35421488
-02_BD,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,296.9,223.1,251.3,328.8,281.3,264.7,258.4,200.1,273.7672727,263.1899174
-02_BD,8th_nonspecified_production,index,13_13_nonspecified_industry,96.66357620336466,93.84879852667709,95.11549710317719,97.4113378861749,96.99232901837178,93.65868328574824,90.26075563174798,88.63818749876394,85.44841828163463,85.6270434507512
-03_CDA,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,14945.0,9292.0,13009.0,12891.0,13507.0,12417.0,12730.0,12473.0,12646.0,13208.0
-03_CDA,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,12397.6,11351.1,10890.1,11220.8,11112.4,11112.4,11110.4,11972.199999999999,12112.199999999999,11721.8
-03_CDA,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,3120.148,3030.269,2963.21,2987.964,2780.556,2969.348,2858.238,2880.035,3210.0,3210.0
-03_CDA,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,13672.4,10985.0,12431.0,12001.0,12465.0,11612.0,11879.0,12167.0,11948.6,12123.173170673095
-03_CDA,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,21973.300000000003,16964.5,21535.5,22414.300000000003,24297.7,24591.800000000003,25156.4,24463.1,23702.132729999998,24214.32645
-03_CDA,8th_machinery_production_projection,GVA millions USD,13_6_machinery,12727.6,10144.6,11441.6,14505.9,15257.9,14722.2,13883.2,16467.8,15935.5,16368.68
-03_CDA,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,20723.8,12846.0,21205.0,28638.7,23842.4,22412.4,20526.4,18121.7,23940.24182,23564.84248
-03_CDA,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,25886.5,24635.9,27654.3,28681.2,29258.5,28008.1,26780.1,34051.0,32023.14909,32622.30876
-03_CDA,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,39374000.0,33692000.0,34755000.0,33103000.0,30576000.0,31147000.0,29924000.0,29470000.0,29138000.0,28832000.0
-03_CDA,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,7478.5,5345.3,6615.0,6600.8,7409.2,8531.3,7887.3,6977.1,6344.707273,6477.988099
-03_CDA,8th_construction_production_projection,GVA millions USD,13_11_construction,105014.8,92483.6,112080.9,123009.2,135090.8,138201.3,135220.8,108771.1,144249.2836,147149.4013
-03_CDA,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,2620.4,2127.3,2334.4,2399.9,2271.4,2190.7,2081.8,1352.1,1475.167273,1341.093554
-03_CDA,8th_nonspecified_production,index,13_13_nonspecified_industry,142.7049597857405,136.84930058379658,139.41860686017534,142.17553546079483,143.094822846787,144.87553647749786,147.49427940167251,147.01822796003574,147.19027556413292,150.13367677058335
-04_CHL,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,1549.0,1308.0,1011.0,1615.0,1671.0,1323.0,1079.0,1112.0,1153.0,1157.524
-04_CHL,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,0.0,0.0,935.0,554.0,313.0,204.0,165.0,204.0,395.0,407.2254341150195
-04_CHL,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-04_CHL,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,4622.329000000001,3876.0,3871.0,4406.0,4722.0,4800.0,5000.0,4800.0,5065.4,5226.579576396901
-04_CHL,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,300.4,263.0,313.29999999999995,344.1,359.6,466.4,332.2,859.2,457.0909091,468.3366942
-04_CHL,8th_machinery_production_projection,GVA millions USD,13_6_machinery,652.7,690.1,837.1,1024.5,1163.2,1185.0,925.6,1397.7,1225.029091,1221.365124
-04_CHL,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,22927.7,20647.0,31520.0,34085.8,31346.5,28959.2,26971.9,20455.8,29060.92727,27458.27174
-04_CHL,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,6611.1,7174.0,8044.3,9458.9,10161.0,10769.0,10307.2,9362.3,11448.02545,11953.01653
-04_CHL,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,6826000.0,6830000.0,5953000.0,6822000.0,6916000.0,6914000.0,6929100.0,6849800.0,6825100.0,6747200.0
-04_CHL,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,1086.1,732.8,895.3,1027.1,1047.1,1177.5,1498.3,1349.8,1348.650909,1401.165785
-04_CHL,8th_construction_production_projection,GVA millions USD,13_11_construction,11352.4,11102.6,12828.3,15037.4,17174.2,18427.0,16722.4,16177.4,20147.79273,21170.88099
-04_CHL,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,675.8,503.6,689.7,725.0,750.8,772.1,642.8,716.4,735.96,717.7872727000001
-04_CHL,8th_nonspecified_production,index,13_13_nonspecified_industry,211.58525702066217,206.0809663214537,215.87031115057377,226.78840193580038,236.5611541198513,243.73267935822764,245.42058326785647,248.13489662818924,248.9589115038529,248.57563454665956
-05_PRC,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,512339.0,577070.0,638743.0,701968.0,731040.0,822000.0,822306.0,803825.0,807609.0,870854.5
-05_PRC,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,72784.486,78165.23,86692.76505,94315.98689,96795.19511,104277.05587,111270.28696,117780.0,121894.0,121444.38
-05_PRC,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,13105.0,12964.0,16131.0,20072.0,23534.0,26534.0,28317.0,31672.0,31900.0,32300.0
-05_PRC,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,1400000.0,1644000.0,1822000.0,2099000.0,2210000.0,2416000.0,2492000.0,2350000.0,2400000.0,2320000.0
-05_PRC,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,88432.0,100463.5,117654.8,146233.7,165433.90000000002,162658.4,176626.8,184384.8,210664.9782,226635.09746999998
-05_PRC,8th_machinery_production_projection,GVA millions USD,13_6_machinery,135646.8,153314.0,184088.3,224357.6,217459.2,253750.5,277485.9,269358.2,316150.1327,339031.1592
-05_PRC,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,66162.8,62270.3,75443.7,94277.1,90151.5,91225.5,86060.9,85902.9,108309.7491,113213.8997
-05_PRC,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,140737.7,158336.6,185021.1,224138.0,262322.6,314371.7,340061.2,325568.9,377566.8218,410975.7388
-05_PRC,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,170926701.0,186864201.0,201585201.0,216199601.0,223673501.0,221053801.0,232904101.0,236680501.0,239661901.0,245688701.0
-05_PRC,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,23485.8,26387.7,31340.2,37650.2,39290.7,48685.0,52750.1,47047.4,57254.92909,61811.48512
-05_PRC,8th_construction_production_projection,GVA millions USD,13_11_construction,233685.1,287340.1,343139.9,432013.8,494980.8,562221.9,623485.4,641204.3,718853.4436,785958.6213
-05_PRC,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,110723.0,119586.1,143763.2,174514.3,193810.6,218935.7,235698.4,222936.5,262914.7836,283337.725
-05_PRC,8th_nonspecified_production,index,13_13_nonspecified_industry,528.2804825047871,574.711012514893,632.2886057794216,688.8096984081707,738.8100302821854,791.8138718326663,845.016323657571,898.6195926816414,954.2718734705918,1013.7534477885877
-06_HKC,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-06_HKC,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-06_HKC,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-06_HKC,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-06_HKC,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,1526.4,1659.2,1740.0,1962.8,2258.7000000000003,2468.5,2641.6,2924.2999999999997,2902.3218177,3120.0315704
-06_HKC,8th_machinery_production_projection,GVA millions USD,13_6_machinery,520.4,530.4,485.1,573.6,604.2,630.8,678.6,745.7,741.4945455,767.3580165
-06_HKC,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,68.2,69.3,67.4,76.4,79.6,82.8,89.9,108.7,100.7872727,105.5517355
-06_HKC,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,7561.5,6761.9,7588.7,7313.1,9236.3,10377.7,11249.9,12332.8,12113.11818,12846.61388
-06_HKC,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-06_HKC,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,14.1,14.4,14.4,15.9,22.6,23.6,23.7,26.1,26.76727273,28.96809917
-06_HKC,8th_construction_production_projection,GVA millions USD,13_11_construction,6776.4,6569.2,6038.1,7697.9,8177.7,8492.4,8976.3,9461.1,9593.325455,9906.10562
-06_HKC,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,3358.0,3486.1,2153.4,3228.5,3241.4,3408.3,3696.3,4141.4,3933.183636,3862.948595
-06_HKC,8th_nonspecified_production,index,13_13_nonspecified_industry,175.51288518672808,170.13922341883517,180.56665080306414,188.1725151534033,190.27893843960854,195.02006402235833,199.11833296398498,202.41671603257453,205.17893512028343,211.24657765629325
-07_INA,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,3915.0,3501.0,3664.0,3621.0,2254.0,2644.0,4428.0,4854.0,4746.0,5195.078
-07_INA,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,5559.12271248,5611.4005372,6177.07,6304.07,6538.07,6498.07,6579.47,8762.0,8308.0,6900.0
-07_INA,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,242.5,250.0,252.0,244.1,248.0,255.3,210.5,250.0,250.0,242.37
-07_INA,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,36000.0,36910.0,39480.0,45238.0,51000.0,56000.0,58000.0,58000.0,63000.0,78750.0
-07_INA,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,11692.8,11799.6,14648.099999999999,17495.7,17556.8,18256.7,17322.0,16330.599999999999,20647.8145491,21526.5307479
-07_INA,8th_machinery_production_projection,GVA millions USD,13_6_machinery,2595.4,2441.7,2593.1,2640.9,2620.2,2415.5,2762.7,2761.4,3098.310909,3095.920331
-07_INA,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,14284.4,14688.5,20510.3,21587.7,20735.3,19315.4,18170.5,15547.8,21967.71636,22304.58777
-07_INA,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,37865.4,38283.7,46662.5,54467.7,56673.5,54346.2,54929.4,55967.4,66032.83455,68828.15437999999
-07_INA,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-07_INA,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,4937.0,4982.7,6194.3,6722.1,6397.2,6341.5,6353.5,5776.0,7366.787273000001,7526.424462999999
-07_INA,8th_construction_production_projection,GVA millions USD,13_11_construction,40164.7,50000.3,68397.1,80458.8,84961.6,85804.8,87023.0,87172.6,107628.5273,115231.8372
-07_INA,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,11844.0,11356.7,12656.4,14713.5,14586.9,14653.5,14000.5,12651.7,16179.21455,16216.16711
-07_INA,8th_nonspecified_production,index,13_13_nonspecified_industry,168.94708321699602,174.4333495583784,182.82755866003052,191.5087935105974,200.3306183574575,208.6472001985467,216.2400226715624,223.92749061769845,232.34456073198024,241.26390956869045
-08_JPN,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,118739.0,87534.0,109599.0,107601.0,107232.0,110595.0,110666.0,105134.0,104775.0,104661.087
-08_JPN,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,25405.9,24865.4,26287.300000000003,25014.625,23991.0,26375.3,25231.5,25616.9,25322.291,26088.02
-08_JPN,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,59.0,39.0,54.0,43.324,25.774,29.07,45.853,42.0,45.0,52.95399999999999
-08_JPN,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,62810.0,54800.0,51526.0,51291.0,54737.0,57400.0,57913.0,54800.0,53300.0,52783.9890831032
-08_JPN,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,153818.5,132915.4,168602.5,159293.0,183545.8,150465.7,148038.30000000002,145815.1,158850.1145,159979.84533
-08_JPN,8th_machinery_production_projection,GVA millions USD,13_6_machinery,158249.7,126817.3,150440.0,171367.2,178412.3,143463.3,139187.1,133494.5,152740.4,152008.9836
-08_JPN,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,1830.9,1577.0,1819.0,2134.7,1941.1,1769.5,1687.7,1527.5,1526.325455,1516.729256
-08_JPN,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,120576.3,130803.6,142830.0,151467.9,153601.1,123125.4,116281.5,109180.2,132482.1582,132961.1066
-08_JPN,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,64030252.0,56426919.0,58467031.0,57162578.0,56345622.0,56898000.0,57375651.0,56578849.0,56144708.0,56386763.0
-08_JPN,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,10565.6,9886.5,10760.8,12251.2,11363.7,10437.0,9878.1,7635.4,9836.076364,9720.264131999998
-08_JPN,8th_construction_production_projection,GVA millions USD,13_11_construction,255571.2,271850.8,273227.8,301894.6,306870.0,274389.3,268311.0,241269.1,278801.7764,282253.4369
-08_JPN,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,18176.9,17552.8,17584.1,18984.0,19463.9,14917.1,13677.3,12588.4,14597.76909,14062.96694
-08_JPN,8th_nonspecified_production,index,13_13_nonspecified_industry,119.1122270985853,112.64611167867074,117.37967315351897,117.28377519729796,119.10715719170528,121.59318371877173,122.18742588939749,123.85900280682588,124.82982156384459,127.49748280322962
-09_ROK,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,53625.0,48572.0,58914.0,68519.0,69073.0,66061.0,71543.0,69670.0,68576.0,71029.994
-09_ROK,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,19982.0,21393.0,23273.0,23055.0,25272.0,25550.0,25745.0,25909.0,27435.0,29227.0
-09_ROK,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,539.0,621.0,603.0,620.0,640.0,664.9,667.22
-09_ROK,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,51653.0,50126.0,47420.0,48249.0,47087.0,47291.0,47048.0,51700.0,57000.0,57199.90595684985
-09_ROK,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,40955.1,37519.4,48830.0,54469.7,55476.8,58129.0,60302.0,57914.8,65098.49636,67378.20595
-09_ROK,8th_machinery_production_projection,GVA millions USD,13_6_machinery,21674.6,19162.5,25060.0,28650.3,29414.3,31443.3,33752.4,33518.1,35502.73091000001,37201.05851
-09_ROK,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,1664.8,1390.0,1487.0,1622.3,1551.2,1799.1,1986.3,1594.4,1806.330909,1825.933058
-09_ROK,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,12371.3,11341.3,12915.5,14263.3,14292.9,15741.2,17372.7,17512.2,17195.14182,17852.22975
-09_ROK,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,9890000.0,9726000.0,11022000.0,11256000.0,11332000.0,11767000.0,11622000.0,11569000.0,11652000.0,11683552.33826236
-09_ROK,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,1233.5,1207.0,1361.0,1502.2,1307.0,1553.1,1845.7,1840.9,1746.652727,1810.026446
-09_ROK,8th_construction_production_projection,GVA millions USD,13_11_construction,52282.3,46682.3,50718.5,52862.7,53227.7,58684.1,63883.4,65876.1,61038.29091,61915.87306000001
-09_ROK,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,12471.9,12193.9,14692.2,16923.8,18234.3,19121.0,19736.7,17790.7,20395.72,21395.13091
-09_ROK,8th_nonspecified_production,index,13_13_nonspecified_industry,245.40342286661652,246.31337098905072,261.2665500626815,269.5769329446923,274.2447153457256,280.5895273381319,288.463058802619,295.2564395642673,302.94952237481203,311.53790262366255
-10_MAS,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,6423.0,5354.0,5694.0,5941.0,5612.0,4693.0,4316.0,3784.0,2764.0,3214.94
-10_MAS,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,3772.2152778,3687.0,3643.0,3792.0,3846.0,3605.581,3452.8124900000003,3930.32294,4385.59948,4044.5306220836273
-10_MAS,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,80.0,120.0,290.772,400.0,440.0,620.0,718.9228
-10_MAS,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,19629.0,19457.0,19762.0,21198.0,21726.0,21457.0,21700.0,22000.0,22089.6,21975.72909653866
-10_MAS,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,2115.5,1866.5,2175.0,2605.2,2680.7,2753.2,2872.6,2577.8,3098.278182,3228.122975
-10_MAS,8th_machinery_production_projection,GVA millions USD,13_6_machinery,3317.1,3005.0,2271.1,4219.5,4488.3,4561.7,4828.7,4352.8,5253.403636,5426.428595
-10_MAS,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,3427.1,3019.8,3751.4,4570.6,5001.6,5066.5,5928.4,4625.9,5877.583636,6273.095868
-10_MAS,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,6866.6,6124.8,6959.5,8932.2,9402.5,9714.9,10118.0,8875.7,11039.95455,11544.72893
-10_MAS,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,2379000.0,2918000.0,2960000.0,3256000.0,3564000.0,3408000.0,3185000.0,3081000.0,3081000.0,3081000.0
-10_MAS,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,1107.9,975.6,1169.5,1305.3,1360.7,1396.5,1450.0,1272.7,1485.001818,1561.618843
-10_MAS,8th_construction_production_projection,GVA millions USD,13_11_construction,6553.8,5647.6,6687.2,7918.9,8334.3,8561.0,8942.7,7688.3,9580.88,9942.541818000002
-10_MAS,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,2076.9,1835.2,1627.1,2543.2,2658.8,2735.1,2870.5,2510.3,3041.825455,3148.36562
-10_MAS,8th_nonspecified_production,index,13_13_nonspecified_industry,195.06446744633246,188.65544816147323,199.26459288808783,206.56984254907806,214.74908445738606,221.77146952617838,231.96233427615368,240.5164212577783,247.83191099764633,258.52340041138285
-11_MEX,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,17209.0,14132.0,16870.0,18110.0,18073.0,18242.0,18930.0,18218.0,18824.0,19954.638
-11_MEX,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,3778.3644463,3709.7563636,3607.373,3321.5,3322.7,3474.0,3623.0,4708.0,4885.1,4481.843293124559
-11_MEX,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,239.0,261.0,220.0,263.0,261.0,262.6,266.78
-11_MEX,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,37139.0,35160.0,34503.0,35400.0,36184.0,34612.0,36597.0,39613.0,39132.9,40782.14388366519
-11_MEX,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,21530.5,15316.9,22264.3,26612.5,31152.9,33765.6,37619.3,39289.200000000004,39514.83818,42320.366609
-11_MEX,8th_machinery_production_projection,GVA millions USD,13_6_machinery,6527.8,4590.5,6949.8,8027.2,8579.8,8792.7,8628.9,8347.8,9366.392727,9770.313719
-11_MEX,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,7914.0,6763.0,9535.5,13389.2,13685.3,12492.4,11761.0,10862.2,13756.04,14203.12
-11_MEX,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,45951.1,40856.9,46241.7,51500.5,53411.1,57675.1,57538.4,52224.4,59617.10364,61443.13405
-11_MEX,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,11856000.0,10649000.0,10808900.0,10795320.0,11070706.0,12766000.0,12759000.0,13245249.2,13603249.2,13395249.2
-11_MEX,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,1604.4,1305.3,1474.9,1651.8,1847.1,1903.9,1894.2,1770.6,1878.432727,1921.824628
-11_MEX,8th_construction_production_projection,GVA millions USD,13_11_construction,92202.4,73048.3,81143.9,91500.2,92616.7,92827.8,94549.9,84669.4,95604.93273,95436.37008
-11_MEX,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,8747.4,7263.8,8229.7,8724.1,8911.3,9301.0,9200.2,8823.9,9123.416364,9221.80595
-11_MEX,8th_nonspecified_production,index,13_13_nonspecified_industry,123.06357495497767,114.85010844210477,119.00445546010077,121.65487922872016,124.3886344752617,124.42527040486343,126.29062765641801,128.83404588346366,130.99805280260227,132.22465625821985
-12_NZ,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,799.0,765.0,853.0,844.0,912.0,900.0,859.0,793.0,577.0,657.4730000000001
-12_NZ,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,125.0,125.0,120.0,120.0,125.0,125.0,125.0,125.0,125.0,0.0
-12_NZ,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,315.5,271.0,344.0,354.029,326.963,324.835,328.269,333.0,339.0,340.0851
-12_NZ,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,1100.0,1200.0,1100.0,1200.0,1200.0,1200.0,1100.0,1200.0,1150.0,650.0000000000001
-12_NZ,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,622.8,647.2,784.8,824.7,741.3,804.5,827.9000000000001,783.2,846.2472727,872.0353719
-12_NZ,8th_machinery_production_projection,GVA millions USD,13_6_machinery,1161.7,1026.3,1254.4,1406.6,1504.8,1494.4,1698.4,1518.1,1717.969091,1809.592397
-12_NZ,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,1997.1,1710.9,2040.2,2156.7,1698.4,967.0,692.7,338.0,1025.501818,781.8006612
-12_NZ,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,6655.2,4322.2,5238.7,6730.1,6650.3,6981.5,8717.2,8053.3,8209.072726999999,8721.330082999999
-12_NZ,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,2931728.0,2967025.0,3223617.0,3239941.0,3336679.0,2940569.0,3037464.0,2730691.0,2790395.0,2863576.3
-12_NZ,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,769.7,767.7,991.5,988.3,953.6,988.2,1032.0,927.5,983.9709091,1002.814876
-12_NZ,8th_construction_production_projection,GVA millions USD,13_11_construction,7314.2,6553.3,7583.9,8600.0,9438.6,10257.3,11568.5,10662.6,11515.28727,12121.68446
-12_NZ,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,495.6,454.1,485.7,478.7,524.2,511.7,545.9,465.8,491.0272727,505.9480991999999
-12_NZ,8th_nonspecified_production,index,13_13_nonspecified_industry,137.34976812832141,135.62391738945618,136.2391757083264,137.88538803190784,139.38413977558483,141.3899286249299,145.0700444196465,148.73967628986583,152.68216696154568,156.02671312500394
-13_PNG,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_machinery_production_projection,GVA millions USD,13_6_machinery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_construction_production_projection,GVA millions USD,13_11_construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_nonspecified_production,index,13_13_nonspecified_industry,124.66301939815459,129.9993061077756,139.9204775742731,138.40901479407069,141.84034735409895,144.28977177532948,160.56756314054414,172.3033716247915,175.774170231771,178.4065997226259
-14_PE,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,1100.0,718.0,880.0,877.0,981.0,1069.0,1078.0,1082.0,1168.0,1206.991
-14_PE,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-14_PE,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-14_PE,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,10527.0,10676.0,10410.0,10094.0,9980.0
-14_PE,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,314.0,343.3,469.9,550.9,644.5999999999999,713.5,736.0,875.3,865.9036364000001,946.4667767999999
-14_PE,8th_machinery_production_projection,GVA millions USD,13_6_machinery,294.2,267.1,342.4,571.6,672.6,715.0,815.5,1239.6,1015.890909,1141.176694
-14_PE,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,10746.6,9677.5,13528.1,18014.0,16317.6,14024.3,11648.2,13918.0,17100.82182,17305.82975
-14_PE,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,4813.2,4948.0,5782.8,6557.2,7324.2,7692.8,7018.9,6389.7,8250.305455,8627.849256
-14_PE,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-14_PE,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,604.8,507.4,601.8,611.5,652.6,617.8,582.0,507.2,641.9090909,635.7469421
-14_PE,8th_construction_production_projection,GVA millions USD,13_11_construction,6748.5,7119.2,9172.5,10022.1,12535.9,13839.2,14299.0,12471.5,15799.58,17002.65091
-14_PE,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,2443.1,2154.0,2780.2,3043.0,3139.4,3125.3,2814.7,2826.1,3348.263636,3421.14314
-14_PE,8th_nonspecified_production,index,13_13_nonspecified_industry,177.95531401933417,178.46614298079123,191.7714476494544,202.25639948787259,212.91027009107566,223.34837195493068,226.26453675108644,230.70688888118113,236.29669729155393,238.25589537599572
-15_RP,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,711.0,824.0,1050.0,1200.0,1260.0,1308.0,1196.0,968.0,1075.0,1377.587
-15_RP,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,0.0,0.0,393.0,393.0,393.0,393.0,405.565,879.8969999999999,890.02,900.64
-15_RP,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-15_RP,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,13369.0,14865.0,15900.0,16063.0,18907.0,20150.0,21305.0,24050.0,25606.6,26118.732
-15_RP,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,2597.5,2243.5,3106.2,3427.2,3160.5,3714.1,3895.2,3925.0,4488.3527269999995,4769.693719
-15_RP,8th_machinery_production_projection,GVA millions USD,13_6_machinery,663.6,640.2,781.8,863.1,623.6,1050.0,1101.0,1134.4,1203.532727,1291.751901
-15_RP,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,2253.8,2201.1,2663.9,3057.1,3344.4,3755.2,3894.5,4018.6,4477.836364,4773.080496
-15_RP,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,16896.0,16443.8,19611.4,22213.1,24942.7,26893.5,28134.0,28792.9,32155.62545,34218.76926
-15_RP,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,1097000.0,1097000.0,1097000.0,950200.0,815000.0,803000.0,803000.0,803000.0,911000.0,991870.4128731732
-15_RP,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,481.7,426.8,619.3,706.6,661.5,850.2,900.2,913.9,1000.209091,1073.499669
-15_RP,8th_construction_production_projection,GVA millions USD,13_11_construction,6035.0,5834.6,6913.9,7827.5,8952.0,9478.2,9922.0,10166.0,11045.81455,11744.87983
-15_RP,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,3641.9,3370.0,3796.9,4376.4,3916.3,4990.9,5256.6,5259.5,5680.672727,6036.80281
-15_RP,8th_nonspecified_production,index,13_13_nonspecified_industry,132.06838445927457,131.39908695881775,139.09098664442138,141.76261194050534,148.68232220380813,156.51438321318895,163.419383673744,170.61724396579322,179.6348439888759,188.88038865028426
-16_RUS,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,68510.0,60011.0,66942.0,68852.0,70209.0,69008.0,71461.0,70898.0,70453.0,71491.0
-16_RUS,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,16610.22,16640.97,17709.3,18332.63,17479.117420000002,18965.549746499997,18400.0,20618.0,21555.43,23422.55
-16_RUS,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,4190.0,3815.0,3947.0,3992.999,4024.0,3601.0,3300.0,3530.0,3560.0,3580.0
-16_RUS,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,53548.0,44266.0,50400.0,56200.0,61700.0,66400.0,68545.0,62100.0,56000.0,56839.99999999999
-16_RUS,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,12764.3,8888.0,12134.5,16321.400000000001,20848.300000000003,20673.5,19948.7,15430.1,21741.889089,22936.065121
-16_RUS,8th_machinery_production_projection,GVA millions USD,13_6_machinery,11670.1,6575.7,7918.2,10846.0,12317.8,10968.1,9307.2,6013.3,10409.92182,10184.02612
-16_RUS,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,11412.5,7779.8,11662.6,17201.6,16220.1,16964.4,14274.4,10594.3,16919.35091,17501.6276
-16_RUS,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,30647.7,26967.1,28166.1,33132.3,39919.9,43592.8,36028.0,24464.9,39952.77273,40589.18645
-16_RUS,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,7700000.0,7373000.0,5606000.0,7600120.0,7670145.0,7746653.0,8023000.0,8068091.0,8546947.0,8610342.584174471
-16_RUS,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,4911.9,3278.6,3698.9,3915.3,4053.7,4729.5,4492.9,3024.5,4224.210909,4060.485785
-16_RUS,8th_construction_production_projection,GVA millions USD,13_11_construction,102434.1,75665.1,97268.4,138806.5,150950.7,144625.4,125531.0,80754.8,146093.7927,149775.6464
-16_RUS,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,4239.9,2881.1,3106.4,3899.5,4064.5,4533.7,3878.1,2614.6,4009.610909,3896.569421
-16_RUS,8th_nonspecified_production,index,13_13_nonspecified_industry,115.09927948653925,106.06368658060639,110.71884868364215,115.29998271609148,119.32462976746092,121.19340687344389,121.75542120945089,118.6829530135578,118.83579874511352,120.56165750678738
-17_SIN,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,764.0,664.0,728.0,752.0,688.0,434.0,540.0,501.0,520.0,595.5219999999999
-17_SIN,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,4258.0,4367.0,5004.0,5237.4516667,5271.746,6980.2506016,7339.108464100001,8046.6700457,7428.0,8236.0
-17_SIN,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-17_SIN,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-17_SIN,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,4359.5,4375.1,5086.599999999999,6585.799999999999,8929.1,8851.6,8997.2,8571.699999999999,10185.8345453,10968.4652926
-17_SIN,8th_machinery_production_projection,GVA millions USD,13_6_machinery,3837.6,3851.9,4718.6,3427.9,3564.8,3991.2,4112.0,3957.6,4419.050909000001,4336.893058
-17_SIN,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-17_SIN,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,1409.5,1416.8,1709.8,2602.8,2794.8,2716.7,3085.3,2917.3,3447.370909,3693.033058
-17_SIN,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0
-17_SIN,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,62.1,62.4,77.3,84.0,88.6,90.0,91.0,85.6,101.7690909,105.8433058
-17_SIN,8th_construction_production_projection,GVA millions USD,13_11_construction,8410.0,8438.5,10429.9,12798.2,13094.1,13681.0,15059.2,14301.9,16747.38364,17559.13769
-17_SIN,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,138.3,138.8,172.4,254.3,210.6,211.3,235.5,278.2,279.4418182,300.9624793
-17_SIN,8th_nonspecified_production,index,13_13_nonspecified_industry,191.8343119209845,184.6877608830097,204.73159677421125,212.0772965147848,217.14739175119493,224.086549455737,229.7978080378052,233.63234777950677,237.9373351999195,244.38822309593272
-18_CT,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,19882.0,15814.0,19755.0,20178.0,20664.0,22282.0,23121.0,21392.0,21751.0,22437.827
-18_CT,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,10326.5,10802.5,11511.0,10196.0,10480.0,11252.0,11613.0,11515.0,11330.0,11358.0
-18_CT,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,35.0,35.0,35.0,30.0,48.0,42.9,46.82
-18_CT,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,17330.0,15918.0,16301.0,16852.0,15806.0,16553.0,14592.0,13445.0,12130.0,11968.60213334564
-18_CT,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,5746.1,5095.8,5823.1,6900.5,6901.4,7070.2,7731.299999999999,7970.6,8100.552727,8510.168265
-18_CT,8th_machinery_production_projection,GVA millions USD,13_6_machinery,5166.1,4817.9,5675.4,6921.6,7215.9,7427.6,7773.6,7718.7,8244.321818,8692.464298
-18_CT,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,494.2,575.5,706.5,581.9,590.0,612.3,641.2,633.7,678.3127272999999,685.9500826000001
-18_CT,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,5070.0,4966.5,5520.4,6472.0,6677.5,6892.7,7181.2,7022.9,7314.44,7840.112727
-18_CT,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,3705000.0,3612000.0,3665000.0,3746000.0,3889000.0,3870000.0,3870000.0,3870000.0,3870000.0,3947862.008736831
-18_CT,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,303.2,263.5,299.7,323.4,327.8,340.1,354.6,350.4,347.3872727,357.7171901
-18_CT,8th_construction_production_projection,GVA millions USD,13_11_construction,11146.3,9778.9,11749.7,12100.4,12102.2,12521.2,13087.6,12797.6,13420.41636,13744.78777
-18_CT,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,3431.6,3247.0,3612.9,4092.4,4234.6,4299.0,4417.8,4546.0,4431.330909,4716.134876
-18_CT,8th_nonspecified_production,index,13_13_nonspecified_industry,315.34230387796566,311.0501166095099,351.07715702494613,379.19450251342283,391.60744618072266,401.1570001093805,419.4786899599949,415.35007471687686,423.838466641311,450.2360592006192
-19_THA,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,5211.0,3646.0,4145.0,4238.0,3328.0,3579.0,4095.0,3718.0,3825.0,6761.808000000001
-19_THA,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,6456.0,7659.0,8693.0,10051.0,10852.0,10966.565,10766.621469,11196.189464,11584.264143999999,11792.756519999999
-19_THA,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,86.507,87.385,79.25,90.0,90.0,89.5087,91.72796
-19_THA,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,31651.0,33562.0,36496.0,36602.0,41047.0,42000.0,34980.0,35000.0,35144.5,35801.96512521741
-19_THA,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,6534.8,6255.599999999999,8059.3,8399.3,8994.4,9572.5,9309.7,9174.800000000001,10700.894545,11170.923471
-19_THA,8th_machinery_production_projection,GVA millions USD,13_6_machinery,2619.7,2506.3,2998.2,3258.2,3418.1,3641.2,3550.0,3668.3,4080.687273,4254.269917000001
-19_THA,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,556.9,556.5,671.4,710.6,734.4,780.5,776.6,753.3,876.3781818,907.3229752000001
-19_THA,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,17166.5,16446.4,19209.2,21746.7,22928.2,24200.4,23454.1,22776.0,26758.27091,27755.21306
-19_THA,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,4108000.0,4180000.0,4362000.0,4396000.0,4386000.0,4525000.0,4525000.0,4829000.0,5084000.0,5158835.951193963
-19_THA,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,786.9,752.9,885.8,969.6,1017.6,1081.8,1049.1,1027.9,1154.196364,1215.171405
-19_THA,8th_construction_production_projection,GVA millions USD,13_11_construction,5334.4,5079.4,6247.6,6682.2,7117.8,7532.9,7270.5,7097.3,8293.338182,8611.206612
-19_THA,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,8357.2,8027.0,9946.4,10644.0,11289.7,12026.1,11681.5,11509.6,13074.69091,13759.35669
-19_THA,8th_nonspecified_production,index,13_13_nonspecified_industry,191.78338859920632,189.50205442346606,202.74534170830253,203.46921291395995,217.18447099125814,222.01123100197185,223.23288354196467,229.30479824677917,236.11898468901407,244.77418179947438
-20_USA,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,91895.0,59384.0,80495.0,86398.0,88695.0,86878.0,88174.0,78845.0,78475.0,81612.209
-20_USA,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,62529.6,60770.6,62840.8,62949.8,60778.4,61828.8,61297.8,66750.6,65957.8,69500.28
-20_USA,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,2658.267,1727.162,1725.73,1986.026,2070.314,1946.035,1710.415,1586.512,841.0,741.0
-20_USA,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,87610.421,64843.0,67202.0,68639.0,74934.141,77414.561,83188.0,84300.0,85000.0,86600.0
-20_USA,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,203248.9,160293.1,205061.1,226551.4,239650.8,252633.59999999998,270122.6,294668.1,268578.1436,280805.0976
-20_USA,8th_machinery_production_projection,GVA millions USD,13_6_machinery,129727.4,115560.6,122086.9,136712.4,143054.2,146790.1,150838.4,147210.0,153074.1436,156318.8977
-20_USA,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,36031.6,37697.7,41865.3,46765.9,47131.2,43929.8,44866.4,41179.7,49260.68182,49678.51884
-20_USA,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,186169.6,219888.3,205110.7,192496.1,205993.0,215157.8,227281.3,248447.3,242087.4945,247733.3017
-20_USA,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,80178382.0,71355455.0,75772845.0,76430822.0,74492000.0,71732298.0,73093000.0,72397000.0,71902239.0,72567584.4489083
-20_USA,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,25326.4,20667.4,22081.3,22126.9,23536.7,26465.4,27565.0,29104.0,23563.02545,24410.06198
-20_USA,8th_construction_production_projection,GVA millions USD,13_11_construction,652984.2,577295.5,541616.9,546614.4,583646.0,620779.8,674428.5,739913.7,630338.0636,632089.3722
-20_USA,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,29401.6,25063.1,26075.9,25396.0,26231.1,27069.5,28088.1,27632.7,24530.22545,24517.4238
-20_USA,8th_nonspecified_production,index,13_13_nonspecified_industry,138.41829954027608,133.66427207486785,135.89154095364532,136.85961170537502,138.84222644644103,140.34662107752348,142.76234021001815,145.8659540955499,147.17153587342136,149.4770138277548
-21_VN,8th_steel_production_projection,thousand tonnes,13_1_iron_and_steel,2250.0,2700.0,4314.0,4900.0,5298.0,5474.0,5847.0,5647.0,7811.0,11473.0
-21_VN,8th_chemicals_production_projection,thousand tonnes,13_2_chemical_incl__petrochemical,300.0,450.0,450.0,450.0,980.0,1150.0,1250.0,1250.0,1250.0,1250.0
-21_VN,8th_aluminium_production_projection,thousand tonnes,13_3_nonferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-21_VN,8th_cement_production_projection,thousand tonnes,13_4_nonmetallic_mineral_products,40009.0,48810.0,55801.0,58271.0,55531.0,58000.0,60507.0,67400.0,77300.0,78800.0
-21_VN,8th_transport_production_projection,GVA millions USD,13_5_transportation_equipment,1618.9,1737.6999999999998,1896.1,2198.1000000000004,2562.5,2807.0,3071.4,3161.7,3460.5781816,3720.4066110000003
-21_VN,8th_machinery_production_projection,GVA millions USD,13_6_machinery,711.5,760.7,822.1,957.8,1115.7,1227.0,1348.1,1387.9,1453.770909,1553.09124
-21_VN,8th_mining_production_projection,GVA millions USD,13_7_mining_and_quarrying,666.4,767.5,794.8,1492.0,1654.8,1813.8,1969.6,2055.3,2303.041818,2542.682479
-21_VN,8th_food_beverage_tobacco_production_projection,GVA millions USD,13_8_food_beverages_and_tobacco,4736.2,5051.7,5523.0,6397.9,7187.3,7991.8,8773.1,9022.4,9842.225455,10568.88017
-21_VN,8th_pulp_paper_production_projection,tonnes,13_9_pulp_paper_and_printing,1377875.0,1383976.0,1601000.0,1600000.0,1737000.0,1742000.0,1742000.0,1742000.0,1742000.0,1742174.2
-21_VN,8th_wood_production_projection,GVA millions USD,13_10_wood_and_wood_products,355.1,380.7,413.9,483.1,563.6,619.1,677.5,720.1,769.6072727000001,828.7880992
-21_VN,8th_construction_production_projection,GVA millions USD,13_11_construction,5086.9,5491.1,5944.2,6863.0,7880.8,8604.9,9342.9,9751.7,10629.46727,11411.32628
-21_VN,8th_textiles_production_projection,GVA millions USD,13_12_textiles_and_leather,7692.5,7643.8,8725.3,10259.0,11579.7,13480.6,14883.7,15349.6,16432.68727,17748.97901
-21_VN,8th_nonspecified_production,index,13_13_nonspecified_industry,276.5892837161568,288.6780594145051,304.16325153583153,319.85792328266484,333.1537039046099,347.53778081271423,364.47272402770074,384.7757716941177,404.4691239483748,427.6374729656477
+economy,item,unit,item_code_new,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+01_AUS,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,5249.0,7296.0,6404.0,4893.0,4688.0,4607.0,4925.0,5259.0,5327.894,5688.806
+01_AUS,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,1993.0,1964.0,1930.0,1910.0,1885.0,1805.0,1839.0,1839.0,1815.0,1819.387618530645
+01_AUS,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,1943.0,1928.0,1945.0,1864.0,1778.0,1704.0,1646.0,1630.0,1450.0,1580.0
+01_AUS,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,9200.0,8300.0,8600.0,8600.0,8400.0,9000.0,9000.0,9080.0,9304.987108694144,9454.790861212221
+01_AUS,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,6695.700000000001,8591.7,10046.2,8871.4,7015.2,7035.5,5412.1,7494.569090999999,7385.603306,7157.824375
+01_AUS,8th_machinery_production_projection,GVA millions USD,14_6_machinery,3846.6,4920.6,5990.4,5782.1,5191.1,5197.4,3264.4,5384.625454999999,5441.552893,5424.943465
+01_AUS,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,32673.8,62295.6,68892.4,61462.6,70477.5,47942.1,36063.9,65264.05636,67726.26413,69446.78438
+01_AUS,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,17362.9,20934.4,25156.5,25822.0,25205.1,23270.5,18863.3,25723.44545,26516.33653,26876.34551
+01_AUS,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,3278000.0,3203000.0,3155000.0,3191000.0,3059000.0,3077000.0,3176000.0,3224000.0,3350156.892845706,3405670.596444638
+01_AUS,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,3086.0,3377.8,3711.8,3601.2,3516.6,3443.7,3184.1,3613.618182,3622.802975,3565.397611
+01_AUS,8th_construction_production_projection,GVA millions USD,14_11_construction,72662.7,90622.1,115216.5,123985.6,120735.5,116606.5,96505.6,132394.2727,138752.8919,144045.5359
+01_AUS,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,2981.5,3238.5,3308.4,2803.9,2428.0,2384.1,1807.5,2577.023636,2481.470413,2267.991092
+01_AUS,8th_nonspecified_production,index,14_13_nonspecified_industry,142.8774646058724,143.1731964351654,144.20425914066016,147.46010902899172,148.98878902058578,150.55189141774036,151.6924666924287,153.7736373440033,155.35323706073174,157.90730775338196
+02_BD,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02_BD,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,0.0,453.14,625.691,758.624,191.396,615.956,489.09551,643.7906800000001,652.9224626950355,660.5322816075652
+02_BD,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02_BD,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02_BD,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,63.900000000000006,72.0,98.7,121.5,130.8,99.9,91.60000000000001,124.5,130.69454545,136.70528926
+02_BD,8th_machinery_production_projection,GVA millions USD,14_6_machinery,76.7,80.2,118.4,152.9,174.8,115.5,111.7,158.4745455,168.3816529,176.7527333
+02_BD,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,595.9,641.4,937.3,1028.6,988.8,938.4,672.1,986.9054545,1012.532893,1038.730011
+02_BD,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,63.4,82.6,95.1,113.2,111.0,102.3,97.1,118.4054545,124.1165289,129.8204237
+02_BD,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02_BD,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,2.7,3.1,4.1,4.2,4.0,3.8,2.9,3.967272727,3.969917355,4.006217881
+02_BD,8th_construction_production_projection,GVA millions USD,14_11_construction,66.6,75.0,98.1,101.2,95.9,89.2,64.5,90.52909091,89.35421488,88.85779715
+02_BD,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,223.1,251.3,328.8,281.3,264.7,258.4,200.1,273.7672727,263.1899174,254.097127
+02_BD,8th_nonspecified_production,index,14_13_nonspecified_industry,93.84879852667709,95.11549710317719,97.4113378861749,96.99232901837178,93.65868328574824,90.26075563174798,88.63818749876394,85.44841828163463,85.6270434507512,84.77722847942525
+03_CDA,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,9292.0,13009.0,12891.0,13507.0,12417.0,12730.0,12473.0,12646.0,13208.0,13443.0
+03_CDA,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,11351.1,10890.1,11220.8,11112.4,11112.4,11110.4,11972.199999999999,12112.199999999999,11721.8,11703.163824506035
+03_CDA,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,3030.269,2963.21,2987.964,2780.556,2969.348,2858.238,2880.035,3210.0,3210.0,2920.0
+03_CDA,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,10985.0,12431.0,12001.0,12465.0,11612.0,11879.0,12167.0,11948.6,12123.173170673095,12198.26530304677
+03_CDA,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,16964.5,21535.5,22414.300000000003,24297.7,24591.800000000003,25156.4,24463.1,23702.132729999998,24214.32645,24886.09973
+03_CDA,8th_machinery_production_projection,GVA millions USD,14_6_machinery,10144.6,11441.6,14505.9,15257.9,14722.2,13883.2,16467.8,15935.5,16368.68,16965.34909
+03_CDA,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,12846.0,21205.0,28638.7,23842.4,22412.4,20526.4,18121.7,23940.24182,23564.84248,23479.11201
+03_CDA,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,24635.9,27654.3,28681.2,29258.5,28008.1,26780.1,34051.0,32023.14909,32622.30876,33412.82018
+03_CDA,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,33692000.0,34755000.0,33103000.0,30576000.0,31147000.0,29924000.0,29470000.0,29138000.0,28832000.0,28670700.0
+03_CDA,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,5345.3,6615.0,6600.8,7409.2,8531.3,7887.3,6977.1,6344.707273,6477.988099,6720.596102
+03_CDA,8th_construction_production_projection,GVA millions USD,14_11_construction,92483.6,112080.9,123009.2,135090.8,138201.3,135220.8,108771.1,144249.2836,147149.4013,150259.9627
+03_CDA,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,2127.3,2334.4,2399.9,2271.4,2190.7,2081.8,1352.1,1475.167273,1341.093554,1224.962086
+03_CDA,8th_nonspecified_production,index,14_13_nonspecified_industry,136.84930058379658,139.41860686017534,142.17553546079483,143.094822846787,144.87553647749786,147.49427940167251,147.01822796003574,147.19027556413292,150.13367677058335,151.56854458348602
+04_CHL,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,1308.0,1011.0,1615.0,1671.0,1323.0,1079.0,1112.0,1153.0,1157.524,1145.226
+04_CHL,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,0.0,935.0,554.0,313.0,204.0,165.0,204.0,395.0,407.2254341150195,419.5267040759352
+04_CHL,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04_CHL,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,3876.0,3871.0,4406.0,4722.0,4800.0,5000.0,4800.0,5065.4,5226.579576396901,5316.538109007274
+04_CHL,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,263.0,313.29999999999995,344.1,359.6,466.4,332.2,859.2,457.0909091,468.3366942,517.7014425
+04_CHL,8th_machinery_production_projection,GVA millions USD,14_6_machinery,690.1,837.1,1024.5,1163.2,1185.0,925.6,1397.7,1225.029091,1221.365124,1309.541764
+04_CHL,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,20647.0,31520.0,34085.8,31346.5,28959.2,26971.9,20455.8,29060.92727,27458.27174,27285.14724
+04_CHL,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,7174.0,8044.3,9458.9,10161.0,10769.0,10307.2,9362.3,11448.02545,11953.01653,12492.70842
+04_CHL,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,6830000.0,5953000.0,6822000.0,6916000.0,6914000.0,6929100.0,6849800.0,6825100.0,6747200.0,6824230.0
+04_CHL,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,732.8,895.3,1027.1,1047.1,1177.5,1498.3,1349.8,1348.650909,1401.165785,1476.588748
+04_CHL,8th_construction_production_projection,GVA millions USD,14_11_construction,11102.6,12828.3,15037.4,17174.2,18427.0,16722.4,16177.4,20147.79273,21170.88099,22141.86175
+04_CHL,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,503.6,689.7,725.0,750.8,772.1,642.8,716.4,735.96,717.7872727000001,729.8830082999999
+04_CHL,8th_nonspecified_production,index,14_13_nonspecified_industry,206.0809663214537,215.87031115057377,226.78840193580038,236.5611541198513,243.73267935822764,245.42058326785647,248.13489662818924,248.9589115038529,248.57563454665956,255.00783089409634
+05_PRC,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,577070.0,638743.0,701968.0,731040.0,822000.0,822306.0,803825.0,807609.0,870854.5,928264.4
+05_PRC,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,78165.23,86692.76505,94315.98689,96795.19511,104277.05587,111270.28696,117780.0,121894.0,121444.38,123071.86951865703
+05_PRC,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,12964.0,16131.0,20072.0,23534.0,26534.0,28317.0,31672.0,31900.0,32300.0,35800.0
+05_PRC,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,1644000.0,1822000.0,2099000.0,2210000.0,2416000.0,2492000.0,2350000.0,2400000.0,2320000.0,2370000.0
+05_PRC,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,100463.5,117654.8,146233.7,165433.90000000002,162658.4,176626.8,184384.8,210664.9782,226635.09746999998,241304.43417000002
+05_PRC,8th_machinery_production_projection,GVA millions USD,14_6_machinery,153314.0,184088.3,224357.6,217459.2,253750.5,277485.9,269358.2,316150.1327,339031.1592,359775.0262
+05_PRC,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,62270.3,75443.7,94277.1,90151.5,91225.5,86060.9,85902.9,108309.7491,113213.8997,116888.8441
+05_PRC,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,158336.6,185021.1,224138.0,262322.6,314371.7,340061.2,325568.9,377566.8218,410975.7388,443038.6136
+05_PRC,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,186864201.0,201585201.0,216199601.0,223673501.0,221053801.0,232904101.0,236680501.0,239661901.0,245688701.0,236277201.0
+05_PRC,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,26387.7,31340.2,37650.2,39290.7,48685.0,52750.1,47047.4,57254.92909,61811.48512,66155.89995
+05_PRC,8th_construction_production_projection,GVA millions USD,14_11_construction,287340.1,343139.9,432013.8,494980.8,562221.9,623485.4,641204.3,718853.4436,785958.6213,850171.6612
+05_PRC,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,119586.1,143763.2,174514.3,193810.6,218935.7,235698.4,222936.5,262914.7836,283337.725,302927.3058
+05_PRC,8th_nonspecified_production,index,14_13_nonspecified_industry,574.711012514893,632.2886057794216,688.8096984081707,738.8100302821854,791.8138718326663,845.016323657571,898.6195926816414,954.2718734705918,1013.7534477885877,1075.3123639145429
+06_HKC,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06_HKC,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06_HKC,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06_HKC,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06_HKC,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,1659.2,1740.0,1962.8,2258.7000000000003,2468.5,2641.6,2924.2999999999997,2902.3218177,3120.0315704,3329.2436785
+06_HKC,8th_machinery_production_projection,GVA millions USD,14_6_machinery,530.4,485.1,573.6,604.2,630.8,678.6,745.7,741.4945455,767.3580165,804.7103201
+06_HKC,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,69.3,67.4,76.4,79.6,82.8,89.9,108.7,100.7872727,105.5517355,110.3694245
+06_HKC,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,6761.9,7588.7,7313.1,9236.3,10377.7,11249.9,12332.8,12113.11818,12846.61388,13626.3434
+06_HKC,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06_HKC,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,14.4,14.4,15.9,22.6,23.6,23.7,26.1,26.76727273,28.96809917,30.88010218
+06_HKC,8th_construction_production_projection,GVA millions USD,14_11_construction,6569.2,6038.1,7697.9,8177.7,8492.4,8976.3,9461.1,9593.325455,9906.10562,10352.039
+06_HKC,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,3486.1,2153.4,3228.5,3241.4,3408.3,3696.3,4141.4,3933.183636,3862.948595,4046.410795
+06_HKC,8th_nonspecified_production,index,14_13_nonspecified_industry,170.13922341883517,180.56665080306414,188.1725151534033,190.27893843960854,195.02006402235833,199.11833296398498,202.41671603257453,205.17893512028343,211.24657765629325,215.65842754585702
+07_INA,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,3501.0,3664.0,3621.0,2254.0,2644.0,4428.0,4854.0,4746.0,5195.078,6182.981
+07_INA,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,5611.4005372,6177.07,6304.07,6538.07,6498.07,6579.47,8762.0,8308.0,6900.0,7462.413618979131
+07_INA,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,250.0,252.0,244.1,248.0,255.3,210.5,250.0,250.0,242.37,245.726
+07_INA,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,36910.0,39480.0,45238.0,51000.0,56000.0,58000.0,58000.0,63000.0,78750.0,98437.5
+07_INA,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,11799.6,14648.099999999999,17495.7,17556.8,18256.7,17322.0,16330.599999999999,20647.8145491,21526.5307479,22367.959311100003
+07_INA,8th_machinery_production_projection,GVA millions USD,14_6_machinery,2441.7,2593.1,2640.9,2620.2,2415.5,2762.7,2761.4,3098.310909,3095.920331,3108.310765
+07_INA,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,14688.5,20510.3,21587.7,20735.3,19315.4,18170.5,15547.8,21967.71636,22304.58777,22486.64788
+07_INA,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,38283.7,46662.5,54467.7,56673.5,54346.2,54929.4,55967.4,66032.83455,68828.15437999999,71605.01227
+07_INA,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07_INA,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,4982.7,6194.3,6722.1,6397.2,6341.5,6353.5,5776.0,7366.787273000001,7526.424462999999,7665.954053
+07_INA,8th_construction_production_projection,GVA millions USD,14_11_construction,50000.3,68397.1,80458.8,84961.6,85804.8,87023.0,87172.6,107628.5273,115231.8372,122304.5801
+07_INA,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,11356.7,12656.4,14713.5,14586.9,14653.5,14000.5,12651.7,16179.21455,16216.16711,16508.51981
+07_INA,8th_nonspecified_production,index,14_13_nonspecified_industry,174.4333495583784,182.82755866003052,191.5087935105974,200.3306183574575,208.6472001985467,216.2400226715624,223.92749061769845,232.34456073198024,241.26390956869045,250.87788487040928
+08_JPN,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,87534.0,109599.0,107601.0,107232.0,110595.0,110666.0,105134.0,104775.0,104661.087,104318.836
+08_JPN,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,24865.4,26287.300000000003,25014.625,23991.0,26375.3,25231.5,25616.9,25322.291,26088.02,25649.971111231178
+08_JPN,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,39.0,54.0,43.324,25.774,29.07,45.853,42.0,45.0,52.95399999999999,57.0499
+08_JPN,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,54800.0,51526.0,51291.0,54737.0,57400.0,57913.0,54800.0,53300.0,52783.9890831032,52407.0942315767
+08_JPN,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,132915.4,168602.5,159293.0,183545.8,150465.7,148038.30000000002,145815.1,158850.1145,159979.84533,159189.57368
+08_JPN,8th_machinery_production_projection,GVA millions USD,14_6_machinery,126817.3,150440.0,171367.2,178412.3,143463.3,139187.1,133494.5,152740.4,152008.9836,150200.1959
+08_JPN,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,1577.0,1819.0,2134.7,1941.1,1769.5,1687.7,1527.5,1526.325455,1516.729256,1486.953052
+08_JPN,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,130803.6,142830.0,151467.9,153601.1,123125.4,116281.5,109180.2,132482.1582,132961.1066,130735.5658
+08_JPN,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,56426919.0,58467031.0,57162578.0,56345622.0,56898000.0,57375651.0,56578849.0,56144708.0,56386763.0,55361000.0
+08_JPN,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,9886.5,10760.8,12251.2,11363.7,10437.0,9878.1,7635.4,9836.076364,9720.264131999998,9428.712379
+08_JPN,8th_construction_production_projection,GVA millions USD,14_11_construction,271850.8,273227.8,301894.6,306870.0,274389.3,268311.0,241269.1,278801.7764,282253.4369,282867.7552
+08_JPN,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,17552.8,17584.1,18984.0,19463.9,14917.1,13677.3,12588.4,14597.76909,14062.96694,13219.65479
+08_JPN,8th_nonspecified_production,index,14_13_nonspecified_industry,112.64611167867074,117.37967315351897,117.28377519729796,119.10715719170528,121.59318371877173,122.18742588939749,123.85900280682588,124.82982156384459,127.49748280322962,128.80635499039687
+09_ROK,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,48572.0,58914.0,68519.0,69073.0,66061.0,71543.0,69670.0,68576.0,71029.994,72464.039
+09_ROK,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,21393.0,23273.0,23055.0,25272.0,25550.0,25745.0,25909.0,27435.0,29227.0,30138.628564949315
+09_ROK,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,539.0,621.0,603.0,620.0,640.0,664.9,667.22,691.0260000000001
+09_ROK,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,50126.0,47420.0,48249.0,47087.0,47291.0,47048.0,51700.0,57000.0,57199.90595684985,56933.199907403374
+09_ROK,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,37519.4,48830.0,54469.7,55476.8,58129.0,60302.0,57914.8,65098.49636,67378.20595,69997.83377
+09_ROK,8th_machinery_production_projection,GVA millions USD,14_6_machinery,19162.5,25060.0,28650.3,29414.3,31443.3,33752.4,33518.1,35502.73091000001,37201.05851,39187.70356
+09_ROK,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,1390.0,1487.0,1622.3,1551.2,1799.1,1986.3,1594.4,1806.330909,1825.933058,1840.745211
+09_ROK,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,11341.3,12915.5,14263.3,14292.9,15741.2,17372.7,17512.2,17195.14182,17852.22975,18691.44374
+09_ROK,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,9726000.0,11022000.0,11256000.0,11332000.0,11767000.0,11622000.0,11569000.0,11652000.0,11683552.33826236,11759940.91511328
+09_ROK,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,1207.0,1361.0,1502.2,1307.0,1553.1,1845.7,1840.9,1746.652727,1810.026446,1898.829551
+09_ROK,8th_construction_production_projection,GVA millions USD,14_11_construction,46682.3,50718.5,52862.7,53227.7,58684.1,63883.4,65876.1,61038.29091,61915.87306000001,63905.09285
+09_ROK,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,12193.9,14692.2,16923.8,18234.3,19121.0,19736.7,17790.7,20395.72,21395.13091,22507.87924
+09_ROK,8th_nonspecified_production,index,14_13_nonspecified_industry,246.31337098905072,261.2665500626815,269.5769329446923,274.2447153457256,280.5895273381319,288.463058802619,295.2564395642673,302.94952237481203,311.53790262366255,319.3800884213831
+10_MAS,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,5354.0,5694.0,5941.0,5612.0,4693.0,4316.0,3784.0,2764.0,3214.94,4108.491
+10_MAS,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,3687.0,3643.0,3792.0,3846.0,3605.581,3452.8124900000003,3930.32294,4385.59948,4044.5306220836273,4078.92109974958
+10_MAS,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,80.0,120.0,290.772,400.0,440.0,620.0,718.9228,816.8294400000001
+10_MAS,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,19457.0,19762.0,21198.0,21726.0,21457.0,21700.0,22000.0,22089.6,21975.72909653866,21982.788628265294
+10_MAS,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,1866.5,2175.0,2605.2,2680.7,2753.2,2872.6,2577.8,3098.278182,3228.122975,3333.781611
+10_MAS,8th_machinery_production_projection,GVA millions USD,14_6_machinery,3005.0,2271.1,4219.5,4488.3,4561.7,4828.7,4352.8,5253.403636,5426.428595,5691.19334
+10_MAS,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,3019.8,3751.4,4570.6,5001.6,5066.5,5928.4,4625.9,5877.583636,6273.095868,6579.649803
+10_MAS,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,6124.8,6959.5,8932.2,9402.5,9714.9,10118.0,8875.7,11039.95455,11544.72893,12014.45101
+10_MAS,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,2918000.0,2960000.0,3256000.0,3564000.0,3408000.0,3185000.0,3081000.0,3081000.0,3081000.0,3081000.0
+10_MAS,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,975.6,1169.5,1305.3,1360.7,1396.5,1450.0,1272.7,1485.001818,1561.618843,1605.365596
+10_MAS,8th_construction_production_projection,GVA millions USD,14_11_construction,5647.6,6687.2,7918.9,8334.3,8561.0,8942.7,7688.3,9580.88,9942.541818000002,10266.34175
+10_MAS,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,1835.2,1627.1,2543.2,2658.8,2735.1,2870.5,2510.3,3041.825455,3148.36562,3278.382639
+10_MAS,8th_nonspecified_production,index,14_13_nonspecified_industry,188.65544816147323,199.26459288808783,206.56984254907806,214.74908445738606,221.77146952617838,231.96233427615368,240.5164212577783,247.83191099764633,258.52340041138285,267.1453397142891
+11_MEX,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,14132.0,16870.0,18110.0,18073.0,18242.0,18930.0,18218.0,18824.0,19954.638,20203.97
+11_MEX,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,3709.7563636,3607.373,3321.5,3322.7,3474.0,3623.0,4708.0,4885.1,4481.843293124559,4661.321513794064
+11_MEX,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,239.0,261.0,220.0,263.0,261.0,262.6,266.78,282.624
+11_MEX,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,35160.0,34503.0,35400.0,36184.0,34612.0,36597.0,39613.0,39132.9,40782.14388366519,41407.90930525165
+11_MEX,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,15316.9,22264.3,26612.5,31152.9,33765.6,37619.3,39289.200000000004,39514.83818,42320.366609,45678.792385
+11_MEX,8th_machinery_production_projection,GVA millions USD,14_6_machinery,4590.5,6949.8,8027.2,8579.8,8792.7,8628.9,8347.8,9366.392727,9770.313719,10249.9391
+11_MEX,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,6763.0,9535.5,13389.2,13685.3,12492.4,11761.0,10862.2,13756.04,14203.12,14796.97236
+11_MEX,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,40856.9,46241.7,51500.5,53411.1,57675.1,57538.4,52224.4,59617.10364,61443.13405,63243.63168999999
+11_MEX,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,10649000.0,10808900.0,10795320.0,11070706.0,12766000.0,12759000.0,13245249.2,13603249.2,13395249.2,13758249.2
+11_MEX,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,1305.3,1474.9,1651.8,1847.1,1903.9,1894.2,1770.6,1878.432727,1921.824628,1975.106344
+11_MEX,8th_construction_production_projection,GVA millions USD,14_11_construction,73048.3,81143.9,91500.2,92616.7,92827.8,94549.9,84669.4,95604.93273,95436.37008,96135.53015
+11_MEX,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,7263.8,8229.7,8724.1,8911.3,9301.0,9200.2,8823.9,9123.416364,9221.80595,9395.581767
+11_MEX,8th_nonspecified_production,index,14_13_nonspecified_industry,114.85010844210477,119.00445546010077,121.65487922872016,124.3886344752617,124.42527040486343,126.29062765641801,128.83404588346366,130.99805280260227,132.22465625821985,133.53624403099425
+12_NZ,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,765.0,853.0,844.0,912.0,900.0,859.0,793.0,577.0,657.4730000000001,651.819
+12_NZ,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,125.0,120.0,120.0,125.0,125.0,125.0,125.0,125.0,0.0,0.0
+12_NZ,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,271.0,344.0,354.029,326.963,324.835,328.269,333.0,339.0,340.0851,345.40718
+12_NZ,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,1200.0,1100.0,1200.0,1200.0,1200.0,1100.0,1200.0,1150.0,650.0000000000001,650.0000000000001
+12_NZ,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,647.2,784.8,824.7,741.3,804.5,827.9000000000001,783.2,846.2472727,872.0353719,880.7147468000001
+12_NZ,8th_machinery_production_projection,GVA millions USD,14_6_machinery,1026.3,1254.4,1406.6,1504.8,1494.4,1698.4,1518.1,1717.969091,1809.592397,1872.291318
+12_NZ,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,1710.9,2040.2,2156.7,1698.4,967.0,692.7,338.0,1025.501818,781.8006612,441.2935297
+12_NZ,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,4322.2,5238.7,6730.1,6650.3,6981.5,8717.2,8053.3,8209.072726999999,8721.330082999999,9183.200691
+12_NZ,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,2967025.0,3223617.0,3239941.0,3336679.0,2940569.0,3037464.0,2730691.0,2790395.0,2863576.3,2971829.54
+12_NZ,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,767.7,991.5,988.3,953.6,988.2,1032.0,927.5,983.9709091,1002.814876,1011.4146
+12_NZ,8th_construction_production_projection,GVA millions USD,14_11_construction,6553.3,7583.9,8600.0,9438.6,10257.3,11568.5,10662.6,11515.28727,12121.68446,12682.27951
+12_NZ,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,454.1,485.7,478.7,524.2,511.7,545.9,465.8,491.0272727,505.9480991999999,502.2586476
+12_NZ,8th_nonspecified_production,index,14_13_nonspecified_industry,135.62391738945618,136.2391757083264,137.88538803190784,139.38413977558483,141.3899286249299,145.0700444196465,148.73967628986583,152.68216696154568,156.02671312500394,158.96466181459516
+13_PNG,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_machinery_production_projection,GVA millions USD,14_6_machinery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_construction_production_projection,GVA millions USD,14_11_construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_nonspecified_production,index,14_13_nonspecified_industry,129.9993061077756,139.9204775742731,138.40901479407069,141.84034735409895,144.28977177532948,160.56756314054414,172.3033716247915,175.774170231771,178.4065997226259,173.48239722744006
+14_PE,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,718.0,880.0,877.0,981.0,1069.0,1078.0,1082.0,1168.0,1206.991,1216.54
+14_PE,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14_PE,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14_PE,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,10527.0,10676.0,10410.0,10094.0,9980.0,10200.118358751955
+14_PE,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,343.3,469.9,550.9,644.5999999999999,713.5,736.0,875.3,865.9036364000001,946.4667767999999,1038.3199519
+14_PE,8th_machinery_production_projection,GVA millions USD,14_6_machinery,267.1,342.4,571.6,672.6,715.0,815.5,1239.6,1015.890909,1141.176694,1286.265079
+14_PE,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,9677.5,13528.1,18014.0,16317.6,14024.3,11648.2,13918.0,17100.82182,17305.82975,17251.97938
+14_PE,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,4948.0,5782.8,6557.2,7324.2,7692.8,7018.9,6389.7,8250.305455,8627.849256,8952.063234000001
+14_PE,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14_PE,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,507.4,601.8,611.5,652.6,617.8,582.0,507.2,641.9090909,635.7469421,627.0107889
+14_PE,8th_construction_production_projection,GVA millions USD,14_11_construction,7119.2,9172.5,10022.1,12535.9,13839.2,14299.0,12471.5,15799.58,17002.65091,18128.0796
+14_PE,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,2154.0,2780.2,3043.0,3139.4,3125.3,2814.7,2826.1,3348.263636,3421.14314,3486.471721
+14_PE,8th_nonspecified_production,index,14_13_nonspecified_industry,178.46614298079123,191.7714476494544,202.25639948787259,212.91027009107566,223.34837195493068,226.26453675108644,230.70688888118113,236.29669729155393,238.25589537599572,243.51085496047884
+15_RP,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,824.0,1050.0,1200.0,1260.0,1308.0,1196.0,968.0,1075.0,1377.587,1474.817
+15_RP,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,0.0,393.0,393.0,393.0,393.0,405.565,879.8969999999999,890.02,900.64,900.64
+15_RP,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15_RP,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,14865.0,15900.0,16063.0,18907.0,20150.0,21305.0,24050.0,25606.6,26118.732,26641.106639999998
+15_RP,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,2243.5,3106.2,3427.2,3160.5,3714.1,3895.2,3925.0,4488.3527269999995,4769.693719,4903.43765
+15_RP,8th_machinery_production_projection,GVA millions USD,14_6_machinery,640.2,781.8,863.1,623.6,1050.0,1101.0,1134.4,1203.532727,1291.751901,1341.492625
+15_RP,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,2201.1,2663.9,3057.1,3344.4,3755.2,3894.5,4018.6,4477.836364,4773.080496,5034.920511
+15_RP,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,16443.8,19611.4,22213.1,24942.7,26893.5,28134.0,28792.9,32155.62545,34218.76926,36020.94032
+15_RP,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,1097000.0,1097000.0,950200.0,815000.0,803000.0,803000.0,803000.0,911000.0,991870.4128731732,1003539.989427425
+15_RP,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,426.8,619.3,706.6,661.5,850.2,900.2,913.9,1000.209091,1073.499669,1142.986326
+15_RP,8th_construction_production_projection,GVA millions USD,14_11_construction,5834.6,6913.9,7827.5,8952.0,9478.2,9922.0,10166.0,11045.81455,11744.87983,12487.48625
+15_RP,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,3370.0,3796.9,4376.4,3916.3,4990.9,5256.6,5259.5,5680.672727,6036.80281,6223.152592
+15_RP,8th_nonspecified_production,index,14_13_nonspecified_industry,131.39908695881775,139.09098664442138,141.76261194050534,148.68232220380813,156.51438321318895,163.419383673744,170.61724396579322,179.6348439888759,188.88038865028426,197.89171323177248
+16_RUS,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,60011.0,66942.0,68852.0,70209.0,69008.0,71461.0,70898.0,70453.0,71491.0,72042.0
+16_RUS,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,16640.97,17709.3,18332.63,17479.117420000002,18965.549746499997,18400.0,20618.0,21555.43,23422.55,23935.14381031088
+16_RUS,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,3815.0,3947.0,3992.999,4024.0,3601.0,3300.0,3530.0,3560.0,3580.0,3630.0
+16_RUS,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,44266.0,50400.0,56200.0,61700.0,66400.0,68545.0,62100.0,56000.0,56839.99999999999,57692.6
+16_RUS,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,8888.0,12134.5,16321.400000000001,20848.300000000003,20673.5,19948.7,15430.1,21741.889089,22936.065121,24097.713041000003
+16_RUS,8th_machinery_production_projection,GVA millions USD,14_6_machinery,6575.7,7918.2,10846.0,12317.8,10968.1,9307.2,6013.3,10409.92182,10184.02612,9809.048968000001
+16_RUS,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,7779.8,11662.6,17201.6,16220.1,16964.4,14274.4,10594.3,16919.35091,17501.6276,17880.64941
+16_RUS,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,26967.1,28166.1,33132.3,39919.9,43592.8,36028.0,24464.9,39952.77273,40589.18645,41098.84664
+16_RUS,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,7373000.0,5606000.0,7600120.0,7670145.0,7746653.0,8023000.0,8068091.0,8546947.0,8610342.584174471,8970982.473035263
+16_RUS,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,3278.6,3698.9,3915.3,4053.7,4729.5,4492.9,3024.5,4224.210909,4060.485785,3901.83093
+16_RUS,8th_construction_production_projection,GVA millions USD,14_11_construction,75665.1,97268.4,138806.5,150950.7,144625.4,125531.0,80754.8,146093.7927,149775.6464,151470.6692
+16_RUS,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,2881.1,3106.4,3899.5,4064.5,4533.7,3878.1,2614.6,4009.610909,3896.569421,3819.00498
+16_RUS,8th_nonspecified_production,index,14_13_nonspecified_industry,106.06368658060639,110.71884868364215,115.29998271609148,119.32462976746092,121.19340687344389,121.75542120945089,118.6829530135578,118.83579874511352,120.56165750678738,123.10756648325949
+17_SIN,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,664.0,728.0,752.0,688.0,434.0,540.0,501.0,520.0,595.5219999999999,618.185
+17_SIN,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,4367.0,5004.0,5237.4516667,5271.746,6980.2506016,7339.108464100001,8046.6700457,7428.0,8236.0,8373.22222207841
+17_SIN,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17_SIN,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17_SIN,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,4375.1,5086.599999999999,6585.799999999999,8929.1,8851.6,8997.2,8571.699999999999,10185.8345453,10968.4652926,11753.6162394
+17_SIN,8th_machinery_production_projection,GVA millions USD,14_6_machinery,3851.9,4718.6,3427.9,3564.8,3991.2,4112.0,3957.6,4419.050909000001,4336.893058,4298.675029
+17_SIN,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17_SIN,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,1416.8,1709.8,2602.8,2794.8,2716.7,3085.3,2917.3,3447.370909,3693.033058,3959.675757
+17_SIN,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0,787000.0
+17_SIN,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,62.4,77.3,84.0,88.6,90.0,91.0,85.6,101.7690909,105.8433058,109.668012
+17_SIN,8th_construction_production_projection,GVA millions USD,14_11_construction,8438.5,10429.9,12798.2,13094.1,13681.0,15059.2,14301.9,16747.38364,17559.13769,18553.60137
+17_SIN,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,138.8,172.4,254.3,210.6,211.3,235.5,278.2,279.4418182,300.9624793,318.7338272
+17_SIN,8th_nonspecified_production,index,14_13_nonspecified_industry,184.6877608830097,204.73159677421125,212.0772965147848,217.14739175119493,224.086549455737,229.7978080378052,233.63234777950677,237.9373351999195,244.38822309593272,249.89532598060848
+18_CT,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,15814.0,19755.0,20178.0,20664.0,22282.0,23121.0,21392.0,21751.0,22437.827,23240.461
+18_CT,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,10802.5,11511.0,10196.0,10480.0,11252.0,11613.0,11515.0,11330.0,11358.0,11320.97584442634
+18_CT,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,35.0,35.0,35.0,30.0,48.0,42.9,46.82,51.506
+18_CT,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,15918.0,16301.0,16852.0,15806.0,16553.0,14592.0,13445.0,12130.0,11968.60213334564,11829.155362885
+18_CT,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,5095.8,5823.1,6900.5,6901.4,7070.2,7731.299999999999,7970.6,8100.552727,8510.168265,8920.237484000001
+18_CT,8th_machinery_production_projection,GVA millions USD,14_6_machinery,4817.9,5675.4,6921.6,7215.9,7427.6,7773.6,7718.7,8244.321818,8692.464298,9150.599216
+18_CT,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,575.5,706.5,581.9,590.0,612.3,641.2,633.7,678.3127272999999,685.9500826000001,684.7930547999999
+18_CT,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,4966.5,5520.4,6472.0,6677.5,6892.7,7181.2,7022.9,7314.44,7840.112727,8187.040628
+18_CT,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,3612000.0,3665000.0,3746000.0,3889000.0,3870000.0,3870000.0,3870000.0,3870000.0,3947862.008736831,3876608.555734737
+18_CT,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,263.5,299.7,323.4,327.8,340.1,354.6,350.4,347.3872727,357.7171901,372.2477716
+18_CT,8th_construction_production_projection,GVA millions USD,14_11_construction,9778.9,11749.7,12100.4,12102.2,12521.2,13087.6,12797.6,13420.41636,13744.78777,14067.52425
+18_CT,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,3247.0,3612.9,4092.4,4234.6,4299.0,4417.8,4546.0,4431.330909,4716.134876,4908.633145000001
+18_CT,8th_nonspecified_production,index,14_13_nonspecified_industry,311.0501166095099,351.07715702494613,379.19450251342283,391.60744618072266,401.1570001093805,419.4786899599949,415.35007471687686,423.838466641311,450.2360592006192,477.33600778431554
+19_THA,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,3646.0,4145.0,4238.0,3328.0,3579.0,4095.0,3718.0,3825.0,6761.808000000001,6402.538
+19_THA,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,7659.0,8693.0,10051.0,10852.0,10966.565,10766.621469,11196.189464,11584.264143999999,11792.756519999999,12012.944094876964
+19_THA,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,86.507,87.385,79.25,90.0,90.0,89.5087,91.72796,95.436718
+19_THA,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,33562.0,36496.0,36602.0,41047.0,42000.0,34980.0,35000.0,35144.5,35801.96512521741,36084.81998730111
+19_THA,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,6255.599999999999,8059.3,8399.3,8994.4,9572.5,9309.7,9174.800000000001,10700.894545,11170.923471,11588.143213000001
+19_THA,8th_machinery_production_projection,GVA millions USD,14_6_machinery,2506.3,2998.2,3258.2,3418.1,3641.2,3550.0,3668.3,4080.687273,4254.269917000001,4407.445127
+19_THA,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,556.5,671.4,710.6,734.4,780.5,776.6,753.3,876.3781818,907.3229752000001,938.0761562999999
+19_THA,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,16446.4,19209.2,21746.7,22928.2,24200.4,23454.1,22776.0,26758.27091,27755.21306,28726.05939
+19_THA,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,4180000.0,4362000.0,4396000.0,4386000.0,4525000.0,4525000.0,4829000.0,5084000.0,5158835.951193963,5262012.670217843
+19_THA,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,752.9,885.8,969.6,1017.6,1081.8,1049.1,1027.9,1154.196364,1215.171405,1254.261205
+19_THA,8th_construction_production_projection,GVA millions USD,14_11_construction,5079.4,6247.6,6682.2,7117.8,7532.9,7270.5,7097.3,8293.338182,8611.206612,8905.076024
+19_THA,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,8027.0,9946.4,10644.0,11289.7,12026.1,11681.5,11509.6,13074.69091,13759.35669,14264.82326
+19_THA,8th_nonspecified_production,index,14_13_nonspecified_industry,189.50205442346606,202.74534170830253,203.46921291395995,217.18447099125814,222.01123100197185,223.23288354196467,229.30479824677917,236.11898468901407,244.77418179947438,254.07881452772818
+20_USA,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,59384.0,80495.0,86398.0,88695.0,86878.0,88174.0,78845.0,78475.0,81612.209,86607.386
+20_USA,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,60770.6,62840.8,62949.8,60778.4,61828.8,61297.8,66750.6,65957.8,69500.28,70823.56095826607
+20_USA,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,1727.162,1725.73,1986.026,2070.314,1946.035,1710.415,1586.512,841.0,741.0,891.0
+20_USA,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,64843.0,67202.0,68639.0,74934.141,77414.561,83188.0,84300.0,85000.0,86600.0,88500.0
+20_USA,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,160293.1,205061.1,226551.4,239650.8,252633.59999999998,270122.6,294668.1,268578.1436,280805.0976,296163.9854
+20_USA,8th_machinery_production_projection,GVA millions USD,14_6_machinery,115560.6,122086.9,136712.4,143054.2,146790.1,150838.4,147210.0,153074.1436,156318.8977,160401.3508
+20_USA,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,37697.7,41865.3,46765.9,47131.2,43929.8,44866.4,41179.7,49260.68182,49678.51884,50554.31032
+20_USA,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,219888.3,205110.7,192496.1,205993.0,215157.8,227281.3,248447.3,242087.4945,247733.3017,254686.3716
+20_USA,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,71355455.0,75772845.0,76430822.0,74492000.0,71732298.0,73093000.0,72397000.0,71902239.0,72567584.4489083,72970374.94174111
+20_USA,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,20667.4,22081.3,22126.9,23536.7,26465.4,27565.0,29104.0,23563.02545,24410.06198,25450.22677
+20_USA,8th_construction_production_projection,GVA millions USD,14_11_construction,577295.5,541616.9,546614.4,583646.0,620779.8,674428.5,739913.7,630338.0636,632089.3722,646203.0678
+20_USA,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,25063.1,26075.9,25396.0,26231.1,27069.5,28088.1,27632.7,24530.22545,24517.4238,24677.27652
+20_USA,8th_nonspecified_production,index,14_13_nonspecified_industry,133.66427207486785,135.89154095364532,136.85961170537502,138.84222644644103,140.34662107752348,142.76234021001815,145.8659540955499,147.17153587342136,149.4770138277548,152.90655884055775
+21_VN,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,2700.0,4314.0,4900.0,5298.0,5474.0,5847.0,5647.0,7811.0,11473.0,15471.0
+21_VN,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,450.0,450.0,450.0,980.0,1150.0,1250.0,1250.0,1250.0,1250.0,1316.3793103448277
+21_VN,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21_VN,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,48810.0,55801.0,58271.0,55531.0,58000.0,60507.0,67400.0,77300.0,78800.0,80000.0
+21_VN,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,1737.6999999999998,1896.1,2198.1000000000004,2562.5,2807.0,3071.4,3161.7,3460.5781816,3720.4066110000003,3969.0847510000003
+21_VN,8th_machinery_production_projection,GVA millions USD,14_6_machinery,760.7,822.1,957.8,1115.7,1227.0,1348.1,1387.9,1453.770909,1553.09124,1658.442368
+21_VN,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,767.5,794.8,1492.0,1654.8,1813.8,1969.6,2055.3,2303.041818,2542.682479,2778.162918
+21_VN,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,5051.7,5523.0,6397.9,7187.3,7991.8,8773.1,9022.4,9842.225455,10568.88017,11262.75702
+21_VN,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,1383976.0,1601000.0,1600000.0,1737000.0,1742000.0,1742000.0,1742000.0,1742000.0,1742174.2,1750885.071
+21_VN,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,380.7,413.9,483.1,563.6,619.1,677.5,720.1,769.6072727000001,828.7880992,885.8106475999999
+21_VN,8th_construction_production_projection,GVA millions USD,14_11_construction,5491.1,5944.2,6863.0,7880.8,8604.9,9342.9,9751.7,10629.46727,11411.32628,12151.60853
+21_VN,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,7643.8,8725.3,10259.0,11579.7,13480.6,14883.7,15349.6,16432.68727,17748.97901,19066.84843
+21_VN,8th_nonspecified_production,index,14_13_nonspecified_industry,288.6780594145051,304.16325153583153,319.85792328266484,333.1537039046099,347.53778081271423,364.47272402770074,384.7757716941177,404.4691239483748,427.6374729656477,453.3658469584482
