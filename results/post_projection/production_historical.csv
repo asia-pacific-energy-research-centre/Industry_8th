@@ -85,7 +85,7 @@ economy,item,unit,item_code_new,2009,2010,2011,2012,2013,2014,2015,2016,2017,201
 07_INA,8th_machinery_production_projection,GVA millions USD,14_6_machinery,2441.7,2593.1,2640.9,2620.2,2415.5,2762.7,2761.4,3098.310909,3095.920331,3108.310765
 07_INA,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,14688.5,20510.3,21587.7,20735.3,19315.4,18170.5,15547.8,21967.71636,22304.58777,22486.64788
 07_INA,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,38283.7,46662.5,54467.7,56673.5,54346.2,54929.4,55967.4,66032.83455,68828.15437999999,71605.01227
-07_INA,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07_INA,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,18806000.0,19557000.0,20423000.0,20786000.0,20858000.0,20982256.0,21510716.0,22113709.0,23443678.0,23443678.0
 07_INA,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,4982.7,6194.3,6722.1,6397.2,6341.5,6353.5,5776.0,7366.787273000001,7526.424462999999,7665.954053
 07_INA,8th_construction_production_projection,GVA millions USD,14_11_construction,50000.3,68397.1,80458.8,84961.6,85804.8,87023.0,87172.6,107628.5273,115231.8372,122304.5801
 07_INA,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,11356.7,12656.4,14713.5,14586.9,14653.5,14000.5,12651.7,16179.21455,16216.16711,16508.51981
@@ -143,7 +143,7 @@ economy,item,unit,item_code_new,2009,2010,2011,2012,2013,2014,2015,2016,2017,201
 11_MEX,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,7263.8,8229.7,8724.1,8911.3,9301.0,9200.2,8823.9,9123.416364,9221.80595,9395.581767
 11_MEX,8th_nonspecified_production,index,14_13_nonspecified_industry,114.85010844210477,119.00445546010077,121.65487922872016,124.3886344752617,124.42527040486343,126.29062765641801,128.83404588346366,130.99805280260227,132.22465625821985,133.53624403099425
 12_NZ,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,765.0,853.0,844.0,912.0,900.0,859.0,793.0,577.0,657.4730000000001,651.819
-12_NZ,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,125.0,120.0,120.0,125.0,125.0,125.0,125.0,125.0,0.0,0.0
+12_NZ,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,125.0,120.0,120.0,125.0,125.0,125.0,125.0,125.0,125.6463070286786,125.67196186855898
 12_NZ,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,271.0,344.0,354.029,326.963,324.835,328.269,333.0,339.0,340.0851,345.40718
 12_NZ,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,1200.0,1100.0,1200.0,1200.0,1200.0,1100.0,1200.0,1150.0,650.0000000000001,650.0000000000001
 12_NZ,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,647.2,784.8,824.7,741.3,804.5,827.9000000000001,783.2,846.2472727,872.0353719,880.7147468000001
