@@ -200,11 +200,11 @@ economy,item,unit,item_code_new,2009,2010,2011,2012,2013,2014,2015,2016,2017,201
 13_PNG,8th_cement_production_projection_nz,thousand tonnes,14_4_nonmetallic_mineral_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 13_PNG,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 13_PNG,8th_machinery_production_projection,GVA millions USD,14_6_machinery,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,72.86687056974878,78.4278596149535,77.5806584561666,79.50397999548355,80.8769249566222,90.0009099384122,96.57903457197027,98.5244775165562,100.0,97.23989891470289
 13_PNG,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 13_PNG,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 13_PNG,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-13_PNG,8th_construction_production_projection,GVA millions USD,14_11_construction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13_PNG,8th_construction_production_projection,GVA millions USD,14_11_construction,72.86687056974878,78.4278596149535,77.5806584561666,79.50397999548355,80.8769249566222,90.0009099384122,96.57903457197027,98.5244775165562,100.0,97.23989891470289
 13_PNG,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 13_PNG,8th_nonspecified_production,index,14_13_nonspecified_industry,129.9993061077756,139.9204775742731,138.40901479407069,141.84034735409895,144.28977177532948,160.56756314054414,172.3033716247915,175.774170231771,178.4065997226259,173.48239722744006
 14_PE,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,718.0,880.0,877.0,981.0,1069.0,1078.0,1082.0,1168.0,1206.991,1216.54
@@ -273,19 +273,19 @@ economy,item,unit,item_code_new,2009,2010,2011,2012,2013,2014,2015,2016,2017,201
 17_SIN,8th_nonspecified_production,index,14_13_nonspecified_industry,184.6877608830097,204.73159677421125,212.0772965147848,217.14739175119493,224.086549455737,229.7978080378052,233.63234777950677,237.9373351999195,244.38822309593272,249.89532598060848
 18_CT,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,15814.0,19755.0,20178.0,20664.0,22282.0,23121.0,21392.0,21751.0,22437.827,23240.461
 18_CT,8th_steel_production_projection_nz,thousand tonnes,14_1_iron_and_steel,15814.0,19755.0,20178.0,20664.0,22282.0,23121.0,21392.0,21751.0,22437.827,23240.461
-18_CT,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,10802.5,11511.0,10196.0,10480.0,11252.0,11613.0,11515.0,11330.0,11358.0,11320.97584442634
-18_CT,8th_chemicals_production_projection_nz,thousand tonnes,14_2_chemical_incl_petrochemical,10802.5,11511.0,10196.0,10480.0,11252.0,11613.0,11515.0,11330.0,11358.0,11320.97584442634
+18_CT,8th_chemicals_production_projection,thousand tonnes,14_2_chemical_incl_petrochemical,10802.5,11511.0,10196.0,10480.0,11252.0,11613.0,11515.0,11330.0,11358.0,12153.02299974907
+18_CT,8th_chemicals_production_projection_nz,thousand tonnes,14_2_chemical_incl_petrochemical,10802.5,11511.0,10196.0,10480.0,11252.0,11613.0,11515.0,11330.0,11358.0,12153.02299974907
 18_CT,8th_aluminium_production_projection,thousand tonnes,14_3_non_ferrous_metals,0.0,0.0,35.0,35.0,35.0,30.0,48.0,42.9,46.82,51.506
-18_CT,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,15918.0,16301.0,16852.0,15806.0,16553.0,14592.0,13445.0,12130.0,11968.60213334564,11829.155362885
-18_CT,8th_cement_production_projection_nz,thousand tonnes,14_4_nonmetallic_mineral_products,15918.0,16301.0,16852.0,15806.0,16553.0,14592.0,13445.0,12130.0,11968.60213334564,11829.155362885
+18_CT,8th_cement_production_projection,thousand tonnes,14_4_nonmetallic_mineral_products,15918.0,16301.0,16852.0,15806.0,16553.0,14592.0,13445.0,12130.0,11968.60213334564,10932.708324892785
+18_CT,8th_cement_production_projection_nz,thousand tonnes,14_4_nonmetallic_mineral_products,15918.0,16301.0,16852.0,15806.0,16553.0,14592.0,13445.0,12130.0,11968.60213334564,10932.708324892785
 18_CT,8th_transport_production_projection,GVA millions USD,14_5_transportation_equipment,5095.8,5823.1,6900.5,6901.4,7070.2,7731.299999999999,7970.6,8100.552727,8510.168265,8920.237484000001
 18_CT,8th_machinery_production_projection,GVA millions USD,14_6_machinery,4817.9,5675.4,6921.6,7215.9,7427.6,7773.6,7718.7,8244.321818,8692.464298,9150.599216
 18_CT,8th_mining_production_projection,GVA millions USD,14_7_mining_and_quarrying,575.5,706.5,581.9,590.0,612.3,641.2,633.7,678.3127272999999,685.9500826000001,684.7930547999999
 18_CT,8th_food_beverage_tobacco_production_projection,GVA millions USD,14_8_food_beverages_and_tobacco,4966.5,5520.4,6472.0,6677.5,6892.7,7181.2,7022.9,7314.44,7840.112727,8187.040628
-18_CT,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,3612000.0,3665000.0,3746000.0,3889000.0,3870000.0,3870000.0,3870000.0,3870000.0,3947862.008736831,3876608.555734737
+18_CT,8th_pulp_paper_production_projection,tonnes,14_9_pulp_paper_and_printing,3612000.0,3665000.0,3746000.0,3889000.0,3870000.0,3870000.0,3870000.0,3870000.0,3947862.008736831,4296079.7428948395
 18_CT,8th_wood_production_projection,GVA millions USD,14_10_wood_and_wood_products,263.5,299.7,323.4,327.8,340.1,354.6,350.4,347.3872727,357.7171901,372.2477716
 18_CT,8th_construction_production_projection,GVA millions USD,14_11_construction,9778.9,11749.7,12100.4,12102.2,12521.2,13087.6,12797.6,13420.41636,13744.78777,14067.52425
-18_CT,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,3247.0,3612.9,4092.4,4234.6,4299.0,4417.8,4546.0,4431.330909,4716.134876,4908.633145000001
+18_CT,8th_textiles_production_projection,GVA millions USD,14_12_textiles_and_leather,3247.0,3612.9,4092.4,4234.6,4299.0,4417.8,4546.0,4431.330909,4716.134876,4970.20073197611
 18_CT,8th_nonspecified_production,index,14_13_nonspecified_industry,311.0501166095099,351.07715702494613,379.19450251342283,391.60744618072266,401.1570001093805,419.4786899599949,415.35007471687686,423.838466641311,450.2360592006192,477.33600778431554
 19_THA,8th_steel_production_projection,thousand tonnes,14_1_iron_and_steel,3646.0,4145.0,4238.0,3328.0,3579.0,4095.0,3718.0,3825.0,6761.808000000001,6402.538
 19_THA,8th_steel_production_projection_nz,thousand tonnes,14_1_iron_and_steel,3646.0,4145.0,4238.0,3328.0,3579.0,4095.0,3718.0,3825.0,6761.808000000001,6402.538
